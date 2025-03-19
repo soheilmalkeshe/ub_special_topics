@@ -1,0 +1,71 @@
+@font-face {
+    font-family: kalameh-black;
+    src:
+        url(../fonts/eot/KalamehWeb-Black.eot),
+        url(../fonts/woff/KalamehWeb-Black.woff),
+        url(../fonts/woff2/KalamehWeb-Black.woff2);
+}
+
+@font-face {
+    font-family: kalameh-bold;
+    src:
+        url(../fonts/eot/KalamehWeb-Bold.eot),
+        url(../fonts/woff/KalamehWeb-Bold.woff),
+        url(../fonts/woff2/KalamehWeb-Bold.woff2);
+}
+
+@font-face {
+    font-family: kalameh-extraBold;
+    src:
+        url(../fonts/eot/KalamehWeb-ExtraBold.eot),
+        url(../fonts/woff/KalamehWeb-ExtraBold.woff),
+        url(../fonts/woff2/KalamehWeb-ExtraBold.woff2);
+}
+
+@font-face {
+    font-family: kalameh-extraLight;
+    src:
+        url(../fonts/eot/KalamehWeb-ExtraLight.eot),
+        url(../fonts/woff/KalamehWeb-ExtraLight.woff),
+        url(../fonts/woff2/KalamehWeb-ExtraLight.woff2);
+}
+
+@font-face {
+    font-family: kalameh-light;
+    src:
+        url(../fonts/eot/KalamehWeb-Light.eot),
+        url(../fonts/woff/KalamehWeb-Light.woff),
+        url(../fonts/woff2/KalamehWeb-Light.woff2);
+}
+
+@font-face {
+    font-family: kalameh-medium;
+    src:
+        url(../fonts/eot/KalamehWeb-Medium.eot),
+        url(../fonts/woff/KalamehWeb-Medium.woff),
+        url(../fonts/woff2/KalamehWeb-Medium.woff2);
+}
+
+@font-face {
+    font-family: kalameh-regular;
+    src:
+        url(../fonts/eot/KalamehWeb-Regular.eot),
+        url(../fonts/woff/KalamehWeb-Regular.woff),
+        url(../fonts/woff2/KalamehWeb-Regular.woff2);
+}
+
+@font-face {
+    font-family: kalameh-semiBold;
+    src:
+        url(../fonts/eot/KalamehWeb-SemiBold.eot),
+        url(../fonts/woff/KalamehWeb-SemiBold.woff),
+        url(../fonts/woff2/KalamehWeb-SemiBold.woff2);
+}
+
+@font-face {
+    font-family: kalameh-thin;
+    src:
+        url(../fonts/eot/KalamehWeb-Thin.eot),
+        url(../fonts/woff/KalamehWeb-Thin.woff),
+        url(../fonts/woff2/KalamehWeb-Thin.woff2);
+}
